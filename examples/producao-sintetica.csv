@@ -1,0 +1,4 @@
+evento_id,data_operacional,turno,equipamento,quantidade
+E001,2026-01-10,A,EQ-01,18
+E002,2026-01-10,B,EQ-01,20
+E003,2026-01-11,A,EQ-02,17
