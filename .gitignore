@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.xls
+*.xlsx
+*.xlsm
+*.parquet
+*.sqlite
+*.db
+private/
+client-context/
+*.key
+*.pem
+.DS_Store
